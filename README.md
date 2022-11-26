@@ -2,7 +2,7 @@
 
 Resolução de todos os exércios do curso em python.
 
-#Ex01  - "Olá Mundo"
+<br>Ex01  - "Olá Mundo"
 #Ex02  - "Digite seu nome"
 #Ex03  - "Soma de Dois números"
 #Ex04  - "Tipo primitivo"
