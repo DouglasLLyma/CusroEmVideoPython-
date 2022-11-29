@@ -15,3 +15,4 @@ Resolução de todos os exércios do curso em python.
 <br>Ex11  - "Pintando parede"
 <br>Ex12  - "Desconto de um produto"
 <br>Ex13  - "Calculo de aumento"
+<BR>Ex14  - "Conversão de °C para °F"

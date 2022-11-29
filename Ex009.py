@@ -1,6 +1,7 @@
 # Faça um programa que leia um número qualque e 
 # mostre na tela sua tabuada.
 numero = int(input('Digite um número: '))
+print('-'*12)
 print(  '{} x 1  = {}\n'
         '{} X 2  = {}\n'
         '{} X 3  = {}\n'
@@ -21,3 +22,4 @@ print(  '{} x 1  = {}\n'
                 ,numero, numero*8
                 ,numero, numero*9
                 ,numero, numero*10)) 
+print('-'*12)                

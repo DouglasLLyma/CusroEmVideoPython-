@@ -3,4 +3,4 @@
 salario = float(input('Salario atual: '))
 porcentagem = (salario*15)/100
 novoSalario = porcentagem + salario
-print(f'O salário com reajuste é R${novoSalario:,.2f}')
+print(f'O salário com reajuste de 15% é R${novoSalario:,.2f}')
