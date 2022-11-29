@@ -16,3 +16,4 @@ Resolução de todos os exércios do curso em python.
 <br>Ex12  - "Desconto de um produto"
 <br>Ex13  - "Calculo de aumento"
 <BR>Ex14  - "Conversão de °C para °F"
+<BR>Ex15  - "Calculando aluguel de Carro"
